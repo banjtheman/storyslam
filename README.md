@@ -1,2 +1,3 @@
-# storyslam
-A Generative AI Story Slam
+# Generative AI Story Slam
+
+Come up with a creative story based on a theme leveraging foundation models hosted on AWS. You goal will be to generate a story of up to 3000 characters, and up to 5 images. You are free to edit text afterwards, just make sure to include the original prompt and output. You will then share your story with the audience. Your story will be judged based on prompt engineering, story delivery, and audience sentiment. Now let's build!
