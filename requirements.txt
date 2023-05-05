@@ -1,4 +1,5 @@
 streamlit
 requests
 numpy
+boto3
 ai21
